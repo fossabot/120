@@ -1,0 +1,9 @@
+{
+  "name": "repo-120",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "axios": "^1.7.2"
+  }
+}
